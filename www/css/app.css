@@ -1,0 +1,12 @@
+/** The following overrides are needed due to miscalculations in Top Coats frame sizes **/
+.quarter {
+    width: 24%;
+}
+
+.three-quarters {
+    width: 74%;
+}
+
+.todo-complete {
+    text-decoration: line-through;
+}
